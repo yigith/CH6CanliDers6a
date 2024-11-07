@@ -1,0 +1,13 @@
+İLK COMMIT VE GÖNDERME
+
+git init
+git add index.html
+git commit -m "anasayfa"
+git branch -M main
+git remote add origin https://github.com/yigith/repoadi
+git push -u origin main
+
+DEĞİŞİKLİĞİ YANSITMA
+git add .
+git commit -m "yatay çizgi eklendi"
+git push
